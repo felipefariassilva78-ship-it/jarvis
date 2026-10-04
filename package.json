@@ -1,0 +1,13 @@
+{
+  "name": "jarvis-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Assistente pessoal com chat, comandos de voz e clima em tempo real.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
